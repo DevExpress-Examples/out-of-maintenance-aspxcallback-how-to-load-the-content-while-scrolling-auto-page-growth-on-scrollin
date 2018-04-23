@@ -1,0 +1,50 @@
+﻿body, html
+{
+    margin: 0px;
+    padding: 20px;
+    padding-top: 5px;
+    font: 12pt HelveticaNeue,Helvetica,Verdana,sans-serif;
+    color: #222222;
+}
+a:link
+{
+    color: #0055cf;
+}
+a:hover
+{
+    color: #cf0000;
+}
+a:visited
+{
+    color: #980098;
+}
+a.linkbutton
+{
+    color: #0055cf;
+    border-bottom: 1px dashed #0055cf;
+    padding: 0 2px 0 2px;
+    cursor: pointer;
+    text-decoration: none;
+}
+a.linkbutton:hover
+{
+    color: #cf0000;
+    border-bottom: 1px dashed #cf0000;
+}
+hr.separator
+{
+    border: 0;
+    border-top: 1px solid #dedede;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.pnLoadingContainer
+{
+    text-align: center;
+    background-color: #f0f0f0;
+}
+.pnLoadingContainer td
+{
+    vertical-align: middle;
+}
