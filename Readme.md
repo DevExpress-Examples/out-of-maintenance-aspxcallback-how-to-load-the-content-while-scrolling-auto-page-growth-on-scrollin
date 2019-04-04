@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [default.aspx](./CS/default.aspx) (VB: [default.aspx.vb](./VB/default.aspx.vb))
+* [default.aspx](./CS/default.aspx) (VB: [default.aspx](./VB/default.aspx))
 * [default.aspx.cs](./CS/default.aspx.cs) (VB: [default.aspx.vb](./VB/default.aspx.vb))
 <!-- default file list end -->
 # ASPxCallback - How to load the content while scrolling - Auto page growth on scrolling down
